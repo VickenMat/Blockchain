@@ -1,0 +1,3 @@
+- Storing your private keys on an internet connected device, like a computer or phone
+- This method is more convenient to send money than [[Cold Storage]] but far less secure
+- A hacker with control over your internet connected device can easily grab your keys

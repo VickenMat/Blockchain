@@ -1,0 +1,2 @@
+- A digital currency that uses a blockchain to track payments
+- They use cryptography to verify transactions and prevent tampering and counterfeiting

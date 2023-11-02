@@ -1,0 +1,6 @@
+- A radical, backward-incompatible change to a cryptocurrency that creates a brand new cryptocurrency
+- Nodes that run the old software won't accept blocks accepted by the new software, so the blockchain permanently splits in two
+	- One chain used by the old software nodes
+	- One chain used by the new software nodes
+		- The blockchain used by the new software nodes effectively becomes a new cryptocurrency
+- Bitcoin Cash hard forked Bitcoin to allow bigger blocks

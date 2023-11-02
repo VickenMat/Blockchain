@@ -1,0 +1,2 @@
+- A tool that lets you see information about blocks, addresses, and transactions on a blockchain
+- You can see anyone's past transactions, trading partners, and current balance given you know their address

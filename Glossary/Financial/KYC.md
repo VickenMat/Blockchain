@@ -1,0 +1,4 @@
+- Know Your Customer
+- Regulation that most crypto exchanges have to follow to prevent criminals from using their services for money laundering
+- Requires sites to collect identification documents like photo IDs and credit card information
+- Reduces cryptocurrencies anonymity and makes [[AML]] easier

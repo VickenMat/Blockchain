@@ -1,0 +1,3 @@
+- When a network is not controlled by a single entity
+- Cryptocurrencies are decentralized because ideally many people from around the world track past payments and verify new payments
+- Shopping at Walmart is centralized; shopping at a farmers marker is decentralized

@@ -1,0 +1,2 @@
+- Number of coins a miner gets for successfully mining a block
+- In many cryptocurrencies, the reward size gets cut in half every few years, making it a depreciating asset

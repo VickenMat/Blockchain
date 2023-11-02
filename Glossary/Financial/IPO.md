@@ -1,0 +1,2 @@
+- Initial Public Offering
+- When a company lists stocks on public stock exchanges to raise money

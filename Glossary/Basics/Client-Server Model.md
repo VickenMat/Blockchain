@@ -1,0 +1,3 @@
+- A centralized way to set up a computer network where everyone talks to a central authority (the server)
+- Twitter uses this type of model in that clients (users) send and fetch messages to/from Twitter (server)
+- It's like sending a letter through the mail where postal service is the server instead of hand delivering it (where there's no central authority)

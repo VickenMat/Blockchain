@@ -1,0 +1,2 @@
+- When a cryptocurrencies block reward is cut in half, usually once ever few years
+- Because of halving, block rewards slow down and eventually stop, causing the supply of coins to plateau and become deflationary over time

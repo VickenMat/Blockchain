@@ -1,0 +1,3 @@
+- Involves a pair of public and private keys
+- The user creates a signature with the private key
+- Network uses the user's public key to validate that the content is untouched

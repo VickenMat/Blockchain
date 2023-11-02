@@ -1,0 +1,3 @@
+- Storing the private key to a wallet in something not connected to the internet
+- Writing your private key on a sticky note, saving it to a non-internet connected computer, or using a hardware wallet
+- This way a hacker can't gain access to your private key even if they get complete control over your internet-connected devices

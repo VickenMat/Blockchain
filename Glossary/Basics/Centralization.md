@@ -1,0 +1,1 @@
+- When everything in a networks flows through a single entity

@@ -1,0 +1,3 @@
+- InterPlanetary File System
+- Protocol for decentralized file and webpage sharing over the blockchain
+- Designed to replace the centralized HTTP protocol for fetching webpages from websites, which has been called "slow, fragile, and forgetful" because information is lost if the central server goes down

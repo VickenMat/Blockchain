@@ -1,0 +1,2 @@
+- The time taken for each block to be mined
+- In Bitcoin, the block time is roughly 10 minutes

@@ -1,0 +1,2 @@
+- Currencies backed by faith in the government
+- US dollar, Japanese Yen

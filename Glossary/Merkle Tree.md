@@ -1,0 +1,3 @@
+- Data structure used by the Bitcoin blockchain to store transaction data
+- The hash of each transaction depends on the hashes of all previous transactions
+	- So a block's hash changes if any previous transaction was tampered with

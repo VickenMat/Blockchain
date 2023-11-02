@@ -1,0 +1,3 @@
+- A group of cryptocurrency miners who share resources and profits
+- They are useful because setting up the infrastructure and equipment to mine is expensive and labor intensive, so it makes more sense to collaborate
+- It's not profitable to mine solo anymore

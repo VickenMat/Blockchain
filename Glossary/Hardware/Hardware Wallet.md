@@ -1,0 +1,3 @@
+- A device that stores private keys and lets you authorize transactions without ever putting them on your computer
+- A hacker can't get your private key even if they see everything on your computer
+- Form of [[Cold Storage]]

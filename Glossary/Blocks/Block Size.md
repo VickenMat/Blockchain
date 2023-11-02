@@ -1,0 +1,3 @@
+- The maximum file size of a block (such as a megabyte)
+- Determines how many transactions can fit in a block
+- Since blocks get mined at consistent intervals, the block size is one of the factors that determines the number of transactions per second the cryptocurrency supports

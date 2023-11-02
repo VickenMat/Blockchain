@@ -1,0 +1,3 @@
+- Ethereum Virtual Machine
+- Runs the coed behind smart contracts
+- Each miner runs a copy of the EVM on their machine since they need to execute smart contracts to mine blocks

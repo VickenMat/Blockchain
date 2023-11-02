@@ -1,0 +1,4 @@
+- A type of full node that includes both the entire blockchain and historical snapshots of the currency
+	- Such as how many coins each address had at any point in time
+- Full nodes are compressed versions of archival nodes
+	- All the information is still there but it's harder to do advanced calculations and queries unless you expand to an archival node

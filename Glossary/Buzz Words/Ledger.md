@@ -1,0 +1,2 @@
+ - Data structure that logs past transactions
+ - Blockchains and Excel sheets are ledgers

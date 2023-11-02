@@ -1,0 +1,3 @@
+- Can occur when a miner or group of miners controls more computing power than every other miner in a particular cryptocurrency put together
+- In other words, they own 51% of the computing/hash power on the network
+- In a 51% attack, the dominant miner or group can rewrite the blockchain at will, allowing them to award themselves unlimited amounts of money, cancel past transactions, and so on

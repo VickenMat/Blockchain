@@ -1,0 +1,2 @@
+- As a verb, making a new branch on a blockchain
+- As a noun, one of these new branches

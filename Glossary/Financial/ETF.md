@@ -1,0 +1,4 @@
+- Exchange-traded fund
+- A financial asset that tracks the price of one or more stocks, cryptocurrencies, or other financial assets
+- Averages the price of certain stocks/coins and is thus less volatile than buying individually
+- Crypto ETFs reduce volatility and remove the hassle of setting up wallets

@@ -1,0 +1,2 @@
+- Unit of currency used on the Ethereum blockchain
+- ETH

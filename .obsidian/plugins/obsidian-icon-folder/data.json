@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "IbLightning",
+      "IbEarth",
+      "IbTreeMapLeft",
+      "IbBell",
+      "IbCircleSquare"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false
+  },
+  "Proof of Work": "IbFolder",
+  "Proof of Stake": "IbFolder",
+  "Ethereum": "IbEarth",
+  "Bitcoin": "IbLightning",
+  "Blockchain": "IbTreeMapLeft",
+  "Basics": "IbBell",
+  "Applications": "IbCircleSquare",
+  "Glossary": "IbAcademicBook",
+  "Glossary/Basics": "IbFolderAdd",
+  "Glossary/Nodes": "IbFolderAdd",
+  "Glossary/Blocks": "IbFolderAdd",
+  "Glossary/Crypto-": "IbFolderAdd",
+  "Glossary/Attacks": "IbFolderAdd",
+  "Glossary/Ethereum": "IbFolderAdd",
+  "Glossary/Financial": "IbFolderAdd",
+  "Glossary/Bitcoin": "IbFolderAdd",
+  "Glossary/Hardware": "IbFolderAdd",
+  "Glossary/Hash": "IbFolderAdd",
+  "Glossary/Buzz Words": "IbFolderAdd",
+  "Glossary/Mining": "IbFolderAdd"
+}

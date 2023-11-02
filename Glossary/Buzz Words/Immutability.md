@@ -1,0 +1,3 @@
+- The inability to change
+- One benefit of blockchains is that they're practically immutable, outside of a [[51% Attack]]
+- It's basically impossible to alter or remove a past transaction

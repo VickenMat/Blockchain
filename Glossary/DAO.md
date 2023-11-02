@@ -1,0 +1,3 @@
+- Decentralized Autonomous Organization
+- Service or company that runs off nothing but smart contracts and has no human leadership or control
+- Imagine a company where decisions were automatically made when a majority of employees voted for them

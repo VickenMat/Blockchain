@@ -1,0 +1,2 @@
+- In its simplest, a bundle of cryptocurrency transactions
+- Miners compete to create blocks, where the winning miner gets to add their block to the end of the blockchain and gets rewarded with a certain currency

@@ -1,0 +1,5 @@
+- A unique fingerprint of a piece of data
+- Hashes are a concise way to refer to digital objects
+- In a store, a barcode number is a sort of hash for an item
+	- It's easier to write down the barcode than take the entire product name, description and such
+- Mining usually requires you to compute trillions of hashes

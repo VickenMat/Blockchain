@@ -1,0 +1,5 @@
+- A node that downloads the entire blockchain
+- Cryptocurrencies need full nodes to stay decentralized as having just one full node means it's centralized
+- In Bitcoin, people who run full nodes aren't paid anything, so there are only a few thousand
+- Solo miners have to run full nodes
+- In a mining pool, only one person has to have the full node

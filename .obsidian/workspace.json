@@ -8,18 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63ecd4446864d88f",
+            "id": "feb209ab82554d8f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Works Cited.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "07f2ac4955637a66",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basics/Blockchain Explained.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dcdc979a7dce5433",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bitcoin/Mining.md",
+                "file": "Glossary/Multi-Signature.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bitcoin/Mining.md",
+                "file": "Glossary/Multi-Signature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bitcoin/Mining.md",
+                "file": "Glossary/Multi-Signature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bitcoin/Mining.md"
+                "file": "Glossary/Multi-Signature.md"
               }
             }
           }
@@ -146,9 +175,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63ecd4446864d88f",
+  "active": "dcdc979a7dce5433",
   "lastOpenFiles": [
-    "Bitcoin/Mining.md",
-    "Bitcoin"
+    "Glossary/Mining/Mining Pool.md",
+    "Glossary/Multi-Signature.md",
+    "Glossary/Mining/Mining.md",
+    "Glossary/Mining",
+    "Glossary/Merkle Tree.md",
+    "Glossary/Testnet.md",
+    "Glossary/Mainnet.md",
+    "Glossary/Smart Contract.md",
+    "Glossary/Nodes/Light Node.md",
+    "Glossary/Buzz Words",
+    "Glossary/Buzz Words/Ledger.md",
+    "Glossary/Financial/KYC.md",
+    "Glossary/Financial/IPO.md",
+    "Glossary/IPFS.md",
+    "Glossary/Buzz Words/Immutability.md",
+    "Basics/Blockchain Explained.md",
+    "Glossary/Financial/STO.md",
+    "Glossary/Financial/ICO.md",
+    "Glossary/Hot Storage.md",
+    "Glossary/Hash/Hash Power.md",
+    "Glossary/Hash/Hash Function.md",
+    "Glossary/Hash/SHA-256.md",
+    "Glossary/Hash/Hashcash.md",
+    "Glossary/Hash/Hash.md",
+    "Glossary/Hash",
+    "Glossary/Hardware/Hardware Wallet.md",
+    "Glossary/Hard Fork.md",
+    "Glossary/Hardware",
+    "Glossary/Bitcoin/Halving.md",
+    "Glossary/Blocks/Genesis Block.md",
+    "Glossary/Bitcoin",
+    "Glossary/Financial",
+    "Glossary/Ethereum",
+    "Glossary/Attacks",
+    "Glossary/Crypto-",
+    "Glossary/Blocks"
   ]
 }

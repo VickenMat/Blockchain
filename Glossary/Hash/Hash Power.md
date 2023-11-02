@@ -1,0 +1,4 @@
+- The speed at which a miner can generate hashes
+- Each hash gives the miner a small chance of being chosen to mine the next block, so miners with higher hash rates have a higher chance of mining a block, hence more profit
+- The Bitcoin network's hash rate is the total hash rate of all Bitcoin miners put together
+- Also known as Hash Rate

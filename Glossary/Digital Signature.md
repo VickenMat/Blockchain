@@ -1,0 +1,9 @@
+- A method used to verify the authenticity of digital messages such as blockchain transactions
+	- You use your private key to encrypt a small tag attached to the end of the transaction and anyone can check the tag to make sure you were actually the one who sent it
+- Employs asymmetric key cryptography
+	- Authentication
+		- Digital signature makes the receiver believe that the data was created and sent by the claimed user
+	- Non-Repudiation
+		- The sender cannot deny sending a message later on
+	- Integrity
+		- Ensures that the message was not altered during the transfer

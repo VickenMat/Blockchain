@@ -1,0 +1,2 @@
+- Science of encoding information in a way that's hard to reverse-engineer
+- In cryptocurrencies, cryptography is used for proving your identity, preventing tampering with past transactions on the blockchain, making mining hard, and others

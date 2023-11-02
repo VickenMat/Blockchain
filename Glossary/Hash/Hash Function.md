@@ -1,0 +1,13 @@
+- An algorithm that computes a [[Hash]], or fingerprint for a piece of data
+- It should be simple to compute a hash with a piece of data but impossible to reverse-engineer it
+- One way function
+	- Mathematical function that takes an input and transforms it into an output
+	- There is no way to recover/reverse engineer the message from the hash value
+- No collision
+	- No two or more messages can have the same hash (message digest)
+	- Ensures that no two account transactions can collide
+- Fixes hash length
+	- Irrespective of the data size, this function returns the same hash length
+- A simple hash function could take in initials for a first and last name
+	- For example, AE could mean Albert Einstein or Amelia Earhart or someone else
+- [[SHA-256]] is a type of hash function

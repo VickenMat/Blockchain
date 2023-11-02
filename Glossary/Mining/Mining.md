@@ -1,0 +1,3 @@
+- When a cryptocurrency user validates transactions and competes for the privilege of adding a block to the blockchain
+- Mining is essential to stopping [[Double Spend]]
+- Mining is the primary way for new coins to enter the economy

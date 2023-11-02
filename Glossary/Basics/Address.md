@@ -1,0 +1,2 @@
+- A public pseudonym for a cryptocurrency user
+- You need to know someone's address to send them coins
