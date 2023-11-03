@@ -1,1 +1,8 @@
 - Business logic code
+- Piece of code that lives on the blockchain and can move coins and tokens based on preset rules
+- For example, a poker smart contract can
+	- Take in some coins from each player
+	- Compare everyone's hands at the end of each round
+	- Automatically pay out the winner
+- Governed by code, not the legal system as normal contracts are
+- Primarily used in [[DApp]]

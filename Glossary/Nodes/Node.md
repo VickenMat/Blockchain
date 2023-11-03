@@ -1,0 +1,2 @@
+- A device that runs the software/client of a blockchain
+- Multiple types of nodes including [[Light Node]], [[Full Node]], and [[Archival Node]]

@@ -1,0 +1,4 @@
+- Security Token Offering
+- More regulated version of an ICO created to comply with new laws
+- Makes fraudulent funding harder
+- Regulations restrict how much money STOs can raise and who can invest in them

@@ -64,7 +64,7 @@ Blockchain ABC
 	- All nodes have a copy of the blockchain
 - [[Transparent]]
 	- The information stored on a blockchain is visible to all participants in the network, providing transparency and accountability
-- [[Security]]
+- [[Glossary/Buzz Words/Security]]
 	- Blockchains use cryptographic techniques to secure transactions
 - [[Consensus]] Mechanisms
 	- [[Proof of Work]]

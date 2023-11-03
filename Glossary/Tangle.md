@@ -1,0 +1,6 @@
+- A blockchain competitor that stores transactions not in a list but in a spaghetti-like data structure
+- New transactions have to verify two randomly chosen unverified transactions
+- There's no mining (hence no waits and lower fees)
+- Many new transactions can be added in parallel
+- The Tangle is seen as ideal for IoT (Internet of Things), which features many devices logging data at the same time
+- Created by startup IOTA

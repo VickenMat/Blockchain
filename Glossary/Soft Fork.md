@@ -1,0 +1,4 @@
+- A backward compatible upgrade to the blockchain
+- Blockchain temporarily splits into two branches (one used by the nodes running old software and one running new software)
+- Once miners controlling the majority of hash power are on the new software, the branches merge and there's a single blockchain once again
+- Soft forks are how cryptocurrencies improve and upgrade over time

@@ -1,0 +1,4 @@
+- Simplified Payment Verification
+- A way for lightweight nodes to make sure your and others' transactions are valid without having to download the entire blockchain
+- SPV asks full nodes, which have the full blockchain, to make sure all transactions are valid
+- Slightly less secure than having a full node, but good enough for most users

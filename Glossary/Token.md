@@ -1,0 +1,3 @@
+- A virtual item tracked on the blockchain that represents ownership of some asset
+- Could represent land, stocks, oil barrels, or any other asset with tokens
+- Ethereum is the most popular blockchain platform for tokens

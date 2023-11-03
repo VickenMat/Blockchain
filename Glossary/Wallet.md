@@ -1,0 +1,3 @@
+- A tool used to manage your cryptocurrency holdings
+- Some wallets are apps that let you send and receive money
+- Other wallets are physical - can be USB or piece of paper that just hold the private keys of your account

@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Multi-Signature.md",
+                "file": "Zero Knowledge Proof/ZKP.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Multi-Signature.md",
+                "file": "Zero Knowledge Proof/ZKP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary/Multi-Signature.md",
+                "file": "Zero Knowledge Proof/ZKP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Multi-Signature.md"
+                "file": "Zero Knowledge Proof/ZKP.md"
               }
             }
           }
@@ -177,41 +177,41 @@
   },
   "active": "dcdc979a7dce5433",
   "lastOpenFiles": [
-    "Glossary/Mining/Mining Pool.md",
-    "Glossary/Multi-Signature.md",
-    "Glossary/Mining/Mining.md",
-    "Glossary/Mining",
-    "Glossary/Merkle Tree.md",
+    "Glossary/Wallet.md",
+    "Zero Knowledge Proof/ZKP.md",
+    "Zero Knowledge Proof",
+    "Glossary/Vanity Address.md",
+    "Glossary/UTXO.md",
+    "Glossary/Transaction Fee.md",
+    "Glossary/TPS.md",
+    "Glossary/Tokenization.md",
+    "Glossary/Token.md",
     "Glossary/Testnet.md",
     "Glossary/Mainnet.md",
-    "Glossary/Smart Contract.md",
-    "Glossary/Nodes/Light Node.md",
-    "Glossary/Buzz Words",
-    "Glossary/Buzz Words/Ledger.md",
-    "Glossary/Financial/KYC.md",
-    "Glossary/Financial/IPO.md",
-    "Glossary/IPFS.md",
-    "Glossary/Buzz Words/Immutability.md",
-    "Basics/Blockchain Explained.md",
+    "Glossary/Tangle.md",
+    "Glossary/Ethereum/Szabo.md",
     "Glossary/Financial/STO.md",
-    "Glossary/Financial/ICO.md",
-    "Glossary/Hot Storage.md",
-    "Glossary/Hash/Hash Power.md",
-    "Glossary/Hash/Hash Function.md",
+    "Glossary/Nodes/SPV.md",
+    "Glossary/Soft Fork.md",
+    "Glossary/Smart Contract.md",
+    "Glossary/Sidechain.md",
     "Glossary/Hash/SHA-256.md",
-    "Glossary/Hash/Hashcash.md",
-    "Glossary/Hash/Hash.md",
+    "Glossary/Bitcoin/SegWit.md",
+    "Glossary/Financial/Security.md",
+    "Glossary/Bitcoin/Satoshi.md",
+    "Glossary/Public Key.md",
+    "Proof of Work/Proof of Work.md",
+    "Proof of Stake/Proof of Stake.md",
+    "Glossary/Private Key.md",
+    "Glossary/Buzz Words/Peer to peer.md",
+    "Glossary/Mining",
+    "Glossary/Buzz Words",
     "Glossary/Hash",
-    "Glossary/Hardware/Hardware Wallet.md",
-    "Glossary/Hard Fork.md",
     "Glossary/Hardware",
-    "Glossary/Bitcoin/Halving.md",
-    "Glossary/Blocks/Genesis Block.md",
     "Glossary/Bitcoin",
     "Glossary/Financial",
     "Glossary/Ethereum",
     "Glossary/Attacks",
-    "Glossary/Crypto-",
-    "Glossary/Blocks"
+    "Glossary/Crypto-"
   ]
 }

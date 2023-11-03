@@ -1,1 +1,3 @@
-- 
+- Also called multisig
+- Multiple people's approval is needed for a cryptocurrency transaction to be made
+- For example a 3 person company can set up a multisig scheme where at least 2/3 members need to approve any expenditure

@@ -1,0 +1,2 @@
+- Smallest unit of Bitcoin
+- Worth one hundred millionth of a bitcoin

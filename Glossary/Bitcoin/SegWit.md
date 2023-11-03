@@ -1,0 +1,3 @@
+- Segregated Witness was a soft fork of Bitcoin that increased the number of transactions allowed per block and thus the maximum number of transactions per second
+- The block size didn't change but SegWit let transactions store some non-essential data outside the block, so transactions become smaller and more could fit into a block
+- Led to a hard fork of Bitcoin to make Bitcoin Cash because many said SegWit didn't go far enough to improve transaction speed

@@ -1,0 +1,3 @@
+- A secret code that lets you control the funds stored in a cryptocurrency wallet
+- The public key and address can be computed from the private key but not the other way around
+- Imagine it like a password on conventional accounts

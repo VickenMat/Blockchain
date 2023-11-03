@@ -1,1 +1,3 @@
 - Blockchain used primarily for developers to test on
+- Testing environment where developers can simulate a blockchain and test out new blockchain apps
+- None of the coins on testnets are worth real money

@@ -1,0 +1,2 @@
+- Service that lets smart contracts get data from the outside world such as weather or stock prices
+- If you're making a [[DApp]] for sports betting, you need an oracle to get the latest sports scores and decide who to pay

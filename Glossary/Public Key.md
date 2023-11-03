@@ -1,0 +1,3 @@
+- A pseudonym for a cryptocurrency wallet or account that anyone can see
+- Not used very often because people use addresses more
+- Addresses can easily be computed given a public key

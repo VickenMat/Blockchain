@@ -1,0 +1,4 @@
+- P2P
+- When two people can communicate and transact directly without having to go through a central entity
+- Credit card payments aren't P2P since money flows through large banks and credit card networks
+- Cash and cryptocurrency payments are P2P since they are directly handed to the other person or entity - no middleman

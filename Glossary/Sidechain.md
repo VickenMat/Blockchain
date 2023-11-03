@@ -1,0 +1,5 @@
+- A small blockchain that's tied to the main chain (bigger blockchain)
+- The main chain's currency can be used on the side chain
+- The side chain can ad extra features to the original cryptocurrency without launching a brand new one
+- For example, the Liquid project seeks to increase the speed and privacy of Bitcoin
+	- Instead of creating a new currency, they launched the Liquid Bitcoin (LBTC) token

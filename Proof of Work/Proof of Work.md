@@ -1,0 +1,3 @@
+- Mining scheme where miners who put in the most computational work (most hashes) are more likely to win
+- This makes tampering with the blockchain difficult and expensive, since hackers would have to put in more work than anyone else like in a [[51% Attack]]
+- Leads to a lot of wasteful computation and energy consumption

@@ -1,0 +1,4 @@
+- A method to prove you know something without revealing what it is
+- If someone wants to know that a laptop is yours, you don't have to tell them your password
+	- You just log into your laptop to prove that you own it, without revealing the password or account information
+- Used by Zcash and Monero to obscure the details of the transaction such as sender and receiver's identities and amount sent

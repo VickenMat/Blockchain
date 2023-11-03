@@ -1,0 +1,4 @@
+- Mining scheme where miners put up their money as collateral
+- Miners with more money are more likely to be chosen to mine the next block
+- Miners who try to break the rules lose part or all of their deposit
+- Considered more energy efficient than [[Proof of Work]] since there's no computational arms race

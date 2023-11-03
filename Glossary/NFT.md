@@ -1,0 +1,4 @@
+- Non-fungible token
+- Token that represents a unique item such as ownership over a particular song or video game item
+- NFT's aren't interchangeable (fungible) while normal tokens and cryptocurrencies are
+- One bitcoin is the same as any other, but every NFT is unique

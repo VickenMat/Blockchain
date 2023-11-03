@@ -1,0 +1,4 @@
+- A small amount that people sending cryptocurrencies pay to miners
+- Every transaction can specify a fee it's willing to pay
+- Miners choose which transactions to include in the next block, so transactions that offer higher fees are typically picked first and added to the blockchain faster
+- These fees are one of two sources of income for miners, the other being block rewards

@@ -1,0 +1,4 @@
+- Transactions per second
+- Measure of how much volume a payment network can handle
+- Many cryptocurrencies are criticized for their low TPS, which means the network gets congested when many people are trying to send money
+- Congestion leads to high transaction fees and long wait times

@@ -1,0 +1,4 @@
+- Creating a [[Token]] to represent some real-world asset
+- Tokenizing land ownership or putting land on the blockchain are examples
+	- Means creating tokens that represent ownership of plots of land
+	- Most of these tokens live on the Ethereum blockchain
