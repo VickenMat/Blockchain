@@ -1,0 +1,3 @@
+- An Ethereum competitor backed by the Chinese government
+	- Ethereum is run by a governing body made of many Western tech and finance companies
+- Known as the "Ethereum of China"

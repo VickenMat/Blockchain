@@ -1,0 +1,4 @@
+- Chainlink
+- Chainlink is a specialized service known as an [[Oracle]], that lets smart contracts access data about the real world (weather, stocks, scores...) in a decentralized way
+- If your DApp needs the current weather, it can use Chainlink to get that data instead of relying on centralized services like AccuWeather
+- You pay for the information requests with the LINK coin

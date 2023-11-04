@@ -1,0 +1,3 @@
+- Tezos
+- A smart contract platform and competitor to Ethereum
+- Raised 230 million in its ICO but had issues

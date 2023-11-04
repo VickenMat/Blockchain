@@ -1,0 +1,5 @@
+- Binance Coin
+- Cryptocurrency promoted by the Binance exchange
+- Binance promotes the coin by giving a discount on transaction fees if you pay with BNB
+- Binance's launchpad products lets you buy tokens from ICOs, but BNB is the only accepted form of payment
+- 

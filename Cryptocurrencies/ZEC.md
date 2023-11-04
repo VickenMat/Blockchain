@@ -1,0 +1,3 @@
+- Zcash
+- Privacy focuses cryptocurrency
+- Transactions are still logged on a public blockchain but thanks to [[ZKP]], they can be verified without publicly revealing who sent the money, who received it, or how much was sent

@@ -1,0 +1,4 @@
+- Tether
+- The best known stablecoin aims to trade at $1
+- Built on the Ethereum blockchain and claims to hold $1 for every USDT in existence to make sure it can honor the conversion rate - questions about this
+- Also maintains coins pegged to 1 Euro, known as the EURT

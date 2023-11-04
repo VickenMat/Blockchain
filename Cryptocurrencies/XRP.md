@@ -1,0 +1,4 @@
+- Ripple
+- International payment network designed to help people move money around the world quickly and cheaply
+- You can send any currency, fiat or cryptocurrency on Ripple
+- Ripple users don't have to use XRP

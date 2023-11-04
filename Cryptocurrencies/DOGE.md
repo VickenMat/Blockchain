@@ -1,0 +1,2 @@
+- Dogecoin
+- Rebranded clone of Litecoin, originally created as a joke based on the "Doge" meme

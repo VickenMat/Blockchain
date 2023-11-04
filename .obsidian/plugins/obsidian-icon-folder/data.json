@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "IbLightning",
-      "IbEarth",
-      "IbTreeMapLeft",
-      "IbBell",
-      "IbCircleSquare"
+      "IbArrowBendRightDown",
+      "IbQuestionMarkWithCircle",
+      "IbAirplay",
+      "IbStackVertical",
+      "IbScaleCircle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,13 +25,10 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false
   },
-  "Proof of Work": "IbFolder",
-  "Proof of Stake": "IbFolder",
-  "Ethereum": "IbEarth",
-  "Bitcoin": "IbLightning",
+  "Proof of Work": "IbAirplay",
+  "Proof of Stake": "IbStackVertical",
   "Blockchain": "IbTreeMapLeft",
   "Basics": "IbBell",
-  "Applications": "IbCircleSquare",
   "Glossary": "IbAcademicBook",
   "Glossary/Basics": "IbFolderAdd",
   "Glossary/Nodes": "IbFolderAdd",
@@ -44,5 +41,11 @@
   "Glossary/Hardware": "IbFolderAdd",
   "Glossary/Hash": "IbFolderAdd",
   "Glossary/Buzz Words": "IbFolderAdd",
-  "Glossary/Mining": "IbFolderAdd"
+  "Glossary/Mining": "IbFolderAdd",
+  "Cryptocurrencies": "IbScaleCircle",
+  "Zero Knowledge Proof": "IbQuestionMarkWithCircle",
+  "Cryptocurrencies/Bitcoin": "IbLightning",
+  "Cryptocurrencies/Ethereum": "IbEarth",
+  "Use Cases": "IbCircleSquare",
+  "Cryptocurrencies/Bitcoin/Forks": "IbArrowBendRightDown"
 }

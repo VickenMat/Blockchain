@@ -1,0 +1,6 @@
+- Stellar
+- Stellar is a payments system that aims to make it easy, cheap, and quick to send money between countries
+- Trusted entities called "anchors" in the senders country convert the sender's money to Stellar Lumens (XLM)
+- The Lumens are sent and anchors in the recipient's currency convert the Lumens back to fiat
+- Stellar is a fork of Ripple, but the two remain similar in terms of technology
+- Stellar is a nonprofit that focuses on individuals and the unbanked while Ripple is for profit and focuses on businesses and banks

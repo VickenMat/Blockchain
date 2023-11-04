@@ -1,0 +1,6 @@
+- TRON
+- TRON is an ambitious crypto startup building a decentralized content sharing platform
+- Aims to cut out middlemen like Google Play and Netflix that stand between people and digital media (books, movies, shows...)
+- It's built atop IPFS, which allows for decentralized file sharing
+- TRX is an Ethereum based token used to pay on TRON
+- You cannot mine TRX

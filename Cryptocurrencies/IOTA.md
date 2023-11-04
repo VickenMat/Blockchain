@@ -1,0 +1,3 @@
+- IOTA is a crypto startup focused on the Internet of Things
+- It doesn't use the blockchain, but rather lets you track transactions in the [[Tangle]], a spaghetti shaped data structure that offers faster and cheaper transactions than a blockchain
+- You pay for IOTA with MIOTA coins

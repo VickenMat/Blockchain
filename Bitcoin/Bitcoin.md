@@ -1,3 +1,0 @@
-- Distributed ledger of transactions
-- No single entity controls the system
-- High level of trust

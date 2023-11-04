@@ -1,0 +1,5 @@
+- Litecoin
+- The original altcoin, Litecoin was designed to be the "silver to Bitcoin's gold"
+- Offers faster transactions, lower fees and a less power hungry mining algorithm than Bitcoin
+- The different mining algorithm is *interesting*
+	- It's said that this system makes it harder for a few powerful miners to monopolize the mining space

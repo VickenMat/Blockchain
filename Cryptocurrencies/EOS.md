@@ -1,0 +1,2 @@
+- Ethereum competitor that claims to offer faster transactions and lower fees
+- Like Ethereum, you can build [[DApp]] and smart contracts

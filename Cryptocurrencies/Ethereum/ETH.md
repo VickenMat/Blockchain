@@ -1,0 +1,5 @@
+- One of the most famous and important cryptocurrencies after Bitcoin
+- Offers [[Smart Contract]] which lets developers builds [[DApp]] on the blockchain
+- Every time you use a smart contract, you pay a small fee for each action the smart contract takes
+- This fee is paid in ether, which is bought and sold like a normal cryptocurrency
+- Uses [[Proof of Stake]] mechanisms

@@ -1,0 +1,4 @@
+- Bitcoin Gold
+- A Bitcoin fork that uses the ASIC-resistant [[Proof of Work]] mining algorithm, which means that specialized mining rigs no longer have a massive advantage in the mining game
+- Thus, Bitcoin Gold claims to make mining more democratic
+- It however, suffered a [[51% Attack]] in 2018, where attackers double spent $18 million worth of coins

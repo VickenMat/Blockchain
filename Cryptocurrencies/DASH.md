@@ -1,0 +1,3 @@
+- Dash
+- A cryptocurrency focused on everyday micropayments such as buying coffee
+- It aims to be more beginner friendly than Bitcoin and offer lower fees and faster transactions

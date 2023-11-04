@@ -1,0 +1,6 @@
+- Ethereum Classic
+- Older version of Ethereum
+- ETC suffered a major hack in 2016 when $50 million was stolen from a decentralized venture capital organization known as the DAO
+- Most ETC users decided to make a [[Hard Fork]] of ETC that rolled back the theft
+- This new cryptocurrency became known as Ethereum
+- ETC didn't roll back the theft and continued to exist as a separate currency, but ETH has grown far bigger than its older sibling
